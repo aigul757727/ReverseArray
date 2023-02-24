@@ -5,6 +5,7 @@ public class Main {
             if (i == 0) {
                 System.out.print(array[i]);
             } else {
+
                 System.out.print(array[i] + ",");
             }
         }
